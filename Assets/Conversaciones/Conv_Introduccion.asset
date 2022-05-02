@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4732bd3c61a6b94e9d2eda541b1c31d, type: 3}
+  m_Name: Conv_Introduccion
+  m_EditorClassIdentifier: 
+  contador: 1
+  conv:
+  - personaje: {fileID: 0}
+    dialogo: 
+  - personaje: {fileID: 11400000, guid: cd95605ece8ebab47911d9e8240c45df, type: 2}
+    dialogo: Hola, Peter
+  - personaje: {fileID: 11400000, guid: 68f224839c724bf46838ffee42cc240d, type: 2}
+    dialogo: Hola, Dr
+  - personaje: {fileID: 11400000, guid: cd95605ece8ebab47911d9e8240c45df, type: 2}
+    dialogo: No me digas Dr, dime Steven
+  - personaje: {fileID: 11400000, guid: 68f224839c724bf46838ffee42cc240d, type: 2}
+    dialogo: Hola, Steven
+  - personaje: {fileID: 11400000, guid: 8bef8d38afa6a8c4ab925041bcf8b22e, type: 2}
+    dialogo: xd
